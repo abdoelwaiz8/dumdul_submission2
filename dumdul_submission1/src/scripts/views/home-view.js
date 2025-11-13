@@ -15,7 +15,7 @@ const HomeView = {
       <div class="page-container">
         <section class="welcome-banner mb-3">
           <h2>Welcome to Journey Journal 🗺️</h2>
-          <p>Temukan dan bagikan jurnal perjalanan menakjubkan dari seluruh Indonesia</p>
+          <p>Temukan dan bagikan jurnal perjalanan menakjubkan dari seluruh Dunia</p>
         </section>
 
         <section class="feature-banner mb-3" style="background: linear-gradient(135deg, var(--brand-primary) 0%, var(--brand-dark) 100%); padding: 1.5rem; border-radius: 0.75rem; color: white; text-align: center;">
@@ -285,3 +285,4 @@ const HomeView = {
 
 
 export default HomeView;
+
