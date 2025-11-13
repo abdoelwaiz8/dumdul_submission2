@@ -19,8 +19,8 @@ const HomeView = {
         </section>
 
         <section class="feature-banner mb-3" style="background: linear-gradient(135deg, var(--brand-primary) 0%, var(--brand-dark) 100%); padding: 1.5rem; border-radius: 0.75rem; color: white; text-align: center;">
-          <h3 style="margin: 0 0 0.5rem 0; color: white;">💾 Fitur IndexedDB: Favorit</h3>
-          <p style="margin: 0; opacity: 0.95;">Klik ❤️ pada jurnal mana saja untuk menyimpannya ke favorit. Lihat jurnal tersimpan di halaman <a href="#/favorites" style="color: var(--accent-color); text-decoration: underline;">Favorit</a>.</p>
+          <h3 style="margin: 0 0 0.5rem 0; color: white;">💾 Fitur Terbaru!: MyFavorit</h3>
+          <p style="margin: 0; opacity: 0.95;">Klik ❤️ pada jurnal mana saja untuk menyimpannya ke MyFavorit. Lihat jurnal tersimpan di halaman <a href="#/favorites" style="color: var(--accent-color); text-decoration: underline;">Favorit</a>.</p>
         </section>
 
         <section class="map-section mb-3">
@@ -282,5 +282,6 @@ const HomeView = {
     alert(message);
   },
 };
+
 
 export default HomeView;
